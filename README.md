@@ -1,2 +1,3 @@
-# Analysis-dashboard
-I developed a comprehensive project in excel ,creating multiple dashboards and tables to analyze the data. The process involves several stages ,including data processing , data cleaning, data visualization.
+# Vrinda-Store-Data-Analysis (Interactive dashboard creation using MSExcel)
+## Project Objective
+The Vrinda Store wants to create a annual sales report . So that ,the owner of the vrinda store can understand their customers and grow more sales in 
